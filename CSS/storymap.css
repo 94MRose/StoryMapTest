@@ -1,0 +1,101 @@
+html, body{
+  height:100%;
+  width:100%;
+  padding: 0;
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+  letter-spacing: 1px;
+}
+h1{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 800;
+  text-align: left;
+  font-size: 32px;
+  text-transform: uppercase;
+  padding-top: 20px;
+  padding-right: 15px;
+  padding-left: 15px;
+  line-height: 40px;
+  margin-right: 40px;
+  width: 100%;
+}
+h2{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 800;
+  text-align: left;
+  font-size: 32px;
+  text-transform: uppercase;
+  padding-top: 25%;
+  padding-left: 15%;
+  line-height: 35px;
+  margin-right: 40px;
+  width: 70%;
+  padding-right: 15%;
+  padding-bottom: 5%;
+  border: thick solid #FFFFFF;
+  min-width: 80%;
+}
+h4{
+  font-family: 'Open Sans', sans-serif;
+  text-align: left;
+  font-size: 30px;
+  color: #8DCFDE;
+  line-height: 27px;
+  margin-left: 10px;
+  margin-bottom: 0px;
+  max-width: 40%;
+  text-transform: uppercase;
+}
+h3{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 69px;
+  font-style: italic;
+  text-transform: uppercase;
+  line-height: 57px;
+}
+p{
+  text-align: left;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: normal;
+  margin-right: 30px;
+  line-height: 20px;
+  font-size: 12px;
+  margin-left: 15px;
+  word-spacing: 105%;
+  letter-spacing: 105%;
+}
+img{
+  max-width: 100%;
+}
+
+#narration{
+  float: left;
+  width:35%;
+}
+
+#map{
+    width: 65%; 
+    height: 100%; 
+    background: none;
+    position: fixed; 
+    right: 0;
+    top: 0;   
+}
+
+#spacer{
+  min-height: 500px;
+}
+
+.active{
+  background-color: #026699;
+  color: white;
+}
+.contents{
+  padding: 15px;
+}
+
+a{
+  color: darkgray;
+}
+
+
