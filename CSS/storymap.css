@@ -87,7 +87,7 @@ img{
 }
 
 .active{
-  background-color: #026699;
+  /*background-color: #026699;*/
   color: white;
 }
 .contents{
@@ -97,5 +97,18 @@ img{
 a{
   color: darkgray;
 }
+
+.north.active{
+  background-color: #026699;
+}
+
+.south.active{
+  background-color: #ffb23e;
+}
+
+.significant.active{
+  background-color: #48956b;
+}
+
 
 
