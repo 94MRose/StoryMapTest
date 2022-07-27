@@ -7,11 +7,10 @@ html, body{
   letter-spacing: 1px;
 }
 h1{
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Poppins';
   font-weight: 800;
   text-align: left;
   font-size: 32px;
-  text-transform: uppercase;
   padding-top: 20px;
   padding-right: 15px;
   padding-left: 15px;
@@ -20,11 +19,10 @@ h1{
   width: 100%;
 }
 h2{
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Poppins';
   font-weight: 800;
   text-align: left;
   font-size: 32px;
-  text-transform: uppercase;
   padding-top: 25%;
   padding-left: 15%;
   line-height: 35px;
@@ -36,21 +34,19 @@ h2{
   min-width: 80%;
 }
 h4{
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Poppins';
   text-align: left;
   font-size: 30px;
-  color: #8DCFDE;
+  color: #BDE6FA;
   line-height: 27px;
   margin-left: 10px;
   margin-bottom: 0px;
   max-width: 40%;
-  text-transform: uppercase;
 }
 h3{
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Poppins';
   font-size: 69px;
   font-style: italic;
-  text-transform: uppercase;
   line-height: 57px;
 }
 p{
@@ -99,15 +95,15 @@ a{
 }
 
 .north.active{
-  background-color: #026699;
+  background-color: #425D8C;
 }
 
 .south.active{
-  background-color: #ffb23e;
+  background-color:  #EFAD55;
 }
 
 .significant.active{
-  background-color: #48956b;
+  background-color: #49552A;
 }
 
 
